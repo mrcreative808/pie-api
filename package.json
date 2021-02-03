@@ -1,0 +1,23 @@
+{
+  "name": "pie-api",
+  "version": "1.0.0",
+  "description": "Mock Pie API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrcreative808/pie-api.git"
+  },
+  "author": "mrcreative808",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrcreative808/pie-api/issues"
+  },
+  "homepage": "https://github.com/mrcreative808/pie-api#readme",
+  "dependencies": {
+    "json-server": "^0.16.3"
+  }
+}
